@@ -2,5 +2,11 @@
   "name": "personal-three",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.135.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.135.0"
+  }
 }
